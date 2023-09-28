@@ -83,7 +83,8 @@ class MAIN:
             if block == self.snake.body[0]:
                 self.game_over()
 
-    def game_over(self):
+    @staticmethod
+    def game_over():
         pygame.quit()
         sys.exit()
 
