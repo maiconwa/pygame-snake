@@ -13,14 +13,11 @@ Install project dependencies: pip install -r .\requirements.txt
 Run the script.
 
 How to play the game:
-<br>
-    left arrow: &#8592;
-<br>    
-    upward arrow: &#8593;
-<br>    
-    right arrow: &#8594;
-<br>    
-    downward arrow: &#8595;
+
+<br>left arrow: &#8592;
+<br>upward arrow: &#8593;
+<br>right arrow: &#8594;
+<br>downward arrow: &#8595;
 
 <br>
 
