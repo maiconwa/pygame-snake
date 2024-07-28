@@ -31,13 +31,10 @@ Run the script main.py.
 
 How to play the game:
 
-    left arrow: &#8592;
-    
-    upward arrow: &#8593;
-    
-    right arrow: &#8594;
-    
-    downward arrow: &#8595;
+left arrow: &#8592;
+upward arrow: &#8593;
+right arrow: &#8594;
+downward arrow: &#8595;
 
 <br>
 
